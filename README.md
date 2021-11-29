@@ -1,16 +1,11 @@
-# newsapp
+# News App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a News Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<video src='https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/news%2Fnews.mp4?alt=media&token=be9aa571-5b91-4715-b56e-e2453253034f' width=180/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
