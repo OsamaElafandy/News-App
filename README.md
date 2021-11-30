@@ -7,8 +7,10 @@ A new Flutter project.
 This project is a News Flutter application.
 
 
+##Screenshot
 
-<p align="center">
+
+<p align="left">
 <img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/news%2Fweb.gif?alt=media&token=78fb4814-15c4-4b0e-a7d3-91777f25ee97"  height="60%" width="50%" >
 </p>
 
