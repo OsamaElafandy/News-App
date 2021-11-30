@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a News Flutter application.
-fetch data from api https://newsapi.org/ using http package 
+fetch data from api using http package 
 
 
 ## Screenshot
